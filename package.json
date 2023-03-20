@@ -1,0 +1,13 @@
+{
+  "name": "com.github.roxtone.revertdefaultoverrides",
+  "version": "0.1.0",
+  "displayName": "Revert Default Overrides",
+  "unity": "2018.4",
+  "description": "Reverts Game Object, Transform and Rect transform overrides that are created by default when creating a new prefab instance in edit mode.",
+  "author": { "name": "Roxtone", "url" : "https://github.com/Roxtone" },
+  "documentationUrl" : "https://github.com/Roxtone/RevertDefaultOverrides",
+  "hideInEditor": "false",
+  "dependencies": {
+    "com.unity.settings-manager": "2.0.1"
+  }
+}
